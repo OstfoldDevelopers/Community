@@ -1,3 +1,3 @@
-[![Slack Status](http://slack.ostfolddevelopers.no/badge.svg)](http://slack.ostfolddevelopers.no)
+[![Slack Status](https://ostfolddevelopers.slack.com/badge.svg)](https://ostfolddevelopers.slack.com)
 
 # Østfold Developers 
